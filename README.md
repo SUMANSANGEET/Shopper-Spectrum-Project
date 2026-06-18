@@ -11,7 +11,7 @@ Transforming raw retail data into actionable customer intelligence using Machine
 
 ## 🚀 Live Demo
 
-👉 [Launch Streamlit App](https://your-streamlit-link.streamlit.app)
+👉 [Launch Streamlit App](https://shopper-spectrum-project-vjtu3v2kh423w6sfr8bffp.streamlit.app/)
 
 ---
 
