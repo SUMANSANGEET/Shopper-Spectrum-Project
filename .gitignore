@@ -6,3 +6,7 @@ product_similarity.pkl
 user_similarity_matrix.joblib
 user_item_matrix.joblib
 *.joblib
+models/*.pkl
+models/*.joblib
+*.pkl
+*.joblib
