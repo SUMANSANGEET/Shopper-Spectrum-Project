@@ -1,14 +1,8 @@
 __pycache__/
 .ipynb_checkpoints/
-*.pyc
-*.pyo
-*.pyd
-.env
 venv/
-.idea/
-.vscode/
+
 product_similarity.pkl
 user_similarity_matrix.joblib
 user_item_matrix.joblib
-
-~$*
+*.joblib
